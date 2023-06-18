@@ -1,1 +1,1 @@
-# DEMO-Repo-Bash
+# demo-repo-bash
